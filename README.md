@@ -1,6 +1,6 @@
 # user_directory
 
-A new Flutter project.
+A simple Flutter app for managing and viewing a small user directory.
 
 ## Getting Started
 
